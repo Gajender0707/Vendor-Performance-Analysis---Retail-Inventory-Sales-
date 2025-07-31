@@ -56,3 +56,6 @@ The dataset contains:
   -	Enabled data-driven vendor selection and purchase diversification.
   - Helped optimize inventory turnover and reduce deadstock.
   - Empowered stakeholders with real-time visual analytics via Power BI.
+
+  - ## Project Created BY
+[@Gajender](https://linkedin.com/in/gajender07)
