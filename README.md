@@ -46,10 +46,9 @@ The dataset contains:
 
 ---
 
+
 ## 📸 Power BI Dashboard Highlights
 
-
-```markdown
 ![Vendor Performance Dashboard](Dashboard/Dashboard.png)
 
 ## 🧠 Business Impact
