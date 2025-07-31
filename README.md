@@ -48,7 +48,12 @@ The dataset contains:
 
 ## 📸 Power BI Dashboard Highlights
 
-> *(Optional: Add screenshots by uploading images to your GitHub repo and using links like the example below)*
 
 ```markdown
-![Vendor Performance Dashboard](lDashboard/Dashboard.png)
+![Vendor Performance Dashboard](Dashboard/Dashboard.png)
+
+## 🧠 Business Impact
+  - Provided actionable recommendations to the procurement and supply chain teams.
+  -	Enabled data-driven vendor selection and purchase diversification.
+  - Helped optimize inventory turnover and reduce deadstock.
+  - Empowered stakeholders with real-time visual analytics via Power BI.
